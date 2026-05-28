@@ -1,4 +1,4 @@
-# Project Title
+# Null Browser
 
 > ⚠️ **Note:** This is a one-man project. There may be some unforeseen bugs and errors. If you encounter any issues, please send an email to **sandeshalt111@gmail.com** and I will try to fix them as soon as possible.
 
